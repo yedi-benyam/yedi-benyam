@@ -28,12 +28,11 @@ typedef struct {
     char*  degree     = "B.E. Electrical & Computer Engineering";
     char*  university = "Addis Ababa University (3rd Year)";
     char*  focus[]    = {"Embedded Systems", "PCB Design", "IoT", "Circuit Design"};
-    bool   building   = true;
 } Engineer_t;
 ```
 
-> 3rd-year ECE student passionate about bridging the gap between hardware and software.  
-> I build real-world systems — from gesture-sensing gloves to automated smart homes.  
+> 3rd year ECE student passionate about bridging the gap between hardware and software.  
+> I build real world systems from gesture sensing gloves to automated smart homes.  
 > Currently advancing in embedded programming, simulation tools, and electronics fundamentals.
 
 ---
