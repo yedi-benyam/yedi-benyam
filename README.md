@@ -20,7 +20,7 @@
 
 ---
 
-## `> who am i`
+## `> whoami`
 
 ```c
 typedef struct {
@@ -28,11 +28,12 @@ typedef struct {
     char*  degree     = "B.E. Electrical & Computer Engineering";
     char*  university = "Addis Ababa University (3rd Year)";
     char*  focus[]    = {"Embedded Systems", "PCB Design", "IoT", "Circuit Design"};
+    bool   building   = true;
 } Engineer_t;
 ```
 
 > 3rd-year ECE student passionate about bridging the gap between hardware and software.  
-> I build real world systems from gesture sensing gloves to automated smart homes.  
+> I build real-world systems — from gesture-sensing gloves to automated smart homes.  
 > Currently advancing in embedded programming, simulation tools, and electronics fundamentals.
 
 ---
@@ -43,49 +44,31 @@ typedef struct {
 <tr>
 <td width="50%">
 
-### 🧤 Smart Glove Project  
-**Arduino-based wearable that translates hand gestures into speech and text output in real time.**  
+### 🧤 Smart Glove Project
+**Arduino-based wearable** that translates hand gestures into speech and text output in real time.  
 `C++` · `Arduino` · `Gesture Recognition`
 
 </td>
 <td width="50%">
 
-### 💡 Arduino LED & Push Button PCB  
-**Arduino Nano breakout PCB designed in KiCad for basic input/output interfacing.**  
-`KiCad` · `Arduino Nano` · `PCB Design` · `Embedded Systems`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏠 Smart House System  
-**Home automation system designed in Tinkercad with sensors, LEDs, and actuators.**  
+### 🏠 Smart House
+**Home automation system** designed in Tinkercad — sensors, LEDs, and actuators working in concert.  
 `C++` · `Arduino` · `Tinkercad`
 
 </td>
-<td width="50%">
-
-### 🚦 Arduino Traffic Light PCB  
-**Arduino Nano-compatible PCB designed in KiCad for traffic light LED interfacing.**  
-`KiCad` · `Arduino Nano` · `PCB Design` · `LED Control`
-
-</td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🚦 Traffic Light Simulation  
-**Sequential logic traffic light system simulated in Proteus.**  
+### 🚦 Traffic Light Controller
+**Sequential logic-based** traffic controller, fully simulated in Proteus.  
 `Digital Logic` · `Proteus` · `Sequential Circuits`
 
 </td>
 <td width="50%">
 
-### 🔢 4-bit Digital Calculator  
-**Combinational logic calculator using K-map simplification implemented in Proteus.**  
+### 🔢 4-bit Digital Calculator
+**Combinational logic** calculator built with logic gates and K-map simplification, implemented in Proteus.  
 `Digital Logic` · `K-Map` · `Proteus`
 
 </td>
@@ -121,7 +104,27 @@ typedef struct {
 [ ] Master PCB design and fabricate my own boards
 [ ] Build an end-to-end IoT system with cloud integration
 [ ] Contribute to open-source embedded projects
-[ ] Teach robotics, programming, and basic electronics to students and beginners
+[ ] Become a skilled electronics & embedded systems engineer
 ```
 
 ---
+
+## `> git log --oneline`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yedi-benyam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&icon_color=7C5CBF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yedi-benyam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&text_color=C9D1D9)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Hardware is poetry written in voltage and logic."*
+
+⚡ Always learning · Always building · Always curious ⚡
+
+</div>
