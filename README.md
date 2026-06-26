@@ -44,37 +44,54 @@ typedef struct {
 <tr>
 <td width="50%">
 
-### 🧤 Smart Glove Project
-**Arduino-based wearable** that translates hand gestures into speech and text output in real time.  
+### 🧤 Smart Glove Project  
+**Arduino-based wearable that translates hand gestures into speech and text output in real time.**  
 `C++` · `Arduino` · `Gesture Recognition`
 
 </td>
 <td width="50%">
 
-### 🏠 Smart House
-**Home automation system** designed in Tinkercad — sensors, LEDs, and actuators working in concert.  
-`C++` · `Arduino` · `Tinkercad`
+### 💡 Arduino LED & Push Button PCB  
+**Arduino Nano breakout PCB designed in KiCad for basic input/output interfacing.**  
+`KiCad` · `Arduino Nano` · `PCB Design` · `Embedded Systems`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🚦 Traffic Light Controller
-**Sequential logic-based** traffic controller, fully simulated in Proteus.  
+### 🏠 Smart House System  
+**Home automation system designed in Tinkercad with sensors, LEDs, and actuators.**  
+`C++` · `Arduino` · `Tinkercad`
+
+</td>
+<td width="50%">
+
+### 🚦 Arduino Traffic Light PCB  
+**Arduino Nano-compatible PCB designed in KiCad for traffic light LED interfacing.**  
+`KiCad` · `Arduino Nano` · `PCB Design` · `LED Control`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚦 Traffic Light Simulation  
+**Sequential logic traffic light system simulated in Proteus.**  
 `Digital Logic` · `Proteus` · `Sequential Circuits`
 
 </td>
 <td width="50%">
 
-### 🔢 4-bit Digital Calculator
-**Combinational logic** calculator built with logic gates and K-map simplification, implemented in Proteus.  
+### 🔢 4-bit Digital Calculator  
+**Combinational logic calculator using K-map simplification implemented in Proteus.**  
 `Digital Logic` · `K-Map` · `Proteus`
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## `> cat skills.txt`
@@ -86,7 +103,6 @@ typedef struct {
 
 **Hardware & Platforms**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 **Design & Simulation Tools**  
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-E47128?style=flat-square&logo=autodesk&logoColor=white)
