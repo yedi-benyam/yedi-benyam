@@ -43,8 +43,8 @@ typedef struct {
 <tr>
 <td width="50%">
 
-### 🧤 Smart Glove Project
-**Arduino-based wearable** that translates hand gestures into speech and text output in real time.  
+### 🧤 Smart Glove Project  
+**Arduino-based wearable that translates hand gestures into speech and text output in real time.**  
 `C++` · `Arduino` · `Gesture Recognition`
 
 </td>
@@ -53,73 +53,49 @@ typedef struct {
 ### 💡 Arduino LED & Push Button PCB  
 **Arduino Nano breakout PCB designed in KiCad for basic input/output interfacing.**  
 `KiCad` · `Arduino Nano` · `PCB Design` · `Embedded Systems`
-### 🏠 Smart House
-**Home automation system** designed in Tinkercad — sensors, LEDs, and actuators working in concert.  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 Smart House System  
+**Home automation system designed in Tinkercad with sensors, LEDs, and actuators.**  
 `C++` · `Arduino` · `Tinkercad`
 
 </td>
 <td width="50%">
 
-### 🚦 Traffic Light Controller
-**Sequential logic-based** traffic controller, fully simulated in Proteus.  
+### 🚦 Arduino Traffic Light PCB  
+**Arduino Nano-compatible PCB designed in KiCad for traffic light LED interfacing.**  
+`KiCad` · `Arduino Nano` · `PCB Design` · `LED Control`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚦 Traffic Light Simulation  
+**Sequential logic traffic light system simulated in Proteus.**  
 `Digital Logic` · `Proteus` · `Sequential Circuits`
 
 </td>
 <td width="50%">
- 
-### 🚦 Arduino Traffic Light PCB  
-**Arduino Nano-compatible PCB designed in KiCad for controlling a traffic light LED system.**  
-`KiCad` · `Arduino Nano` · `PCB Design` · `LED Control`
 
-### 🔢 4-bit Digital Calculator
-**Combinational logic** calculator built with logic gates and K-map simplification, implemented in Proteus.  
+### 🔢 4-bit Digital Calculator  
+**Combinational logic calculator using K-map simplification implemented in Proteus.**  
 `Digital Logic` · `K-Map` · `Proteus`
 
 </td>
 </tr>
 </table>
 
----
-
-## `> cat skills.txt`
-
-**Languages & Programming**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java]((https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white))
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Hardware & Platforms**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Design & Simulation Tools**  
-![Tinkercad](https://img.shields.io/badge/Tinkercad-E47128?style=flat-square&logo=autodesk&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C5FA8?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-
-**Domain Knowledge**  
-`Embedded Systems` · `PCB Design` · `IoT` · `Circuit Analysis` · `Digital Logic` · `Microcontrollers`
-
----
-
-## `> cat goals.md`
-
-```
+--- 
+## > cat goals.md
 [ ] Master PCB design and fabricate my own boards
 [ ] Contribute to open-source embedded projects
 [ ] Become a skilled electronics & embedded systems engineer
 [ ] Teach robotics and basic electronics to children and beginners
-```
-
----
-
-## `> git log --oneline`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yedi-benyam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&icon_color=7C5CBF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yedi-benyam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&text_color=C9D1D9)
-
-</div>
-
 ---
