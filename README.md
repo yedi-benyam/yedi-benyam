@@ -20,7 +20,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i`
 
 ```c
 typedef struct {
@@ -28,7 +28,6 @@ typedef struct {
     char*  degree     = "B.E. Electrical & Computer Engineering";
     char*  university = "Addis Ababa University (3rd Year)";
     char*  focus[]    = {"Embedded Systems", "PCB Design", "IoT", "Circuit Design"};
-    bool   building   = true;
 } Engineer_t;
 ```
 
@@ -51,13 +50,14 @@ typedef struct {
 </td>
 <td width="50%">
 
+### 💡 Arduino LED & Push Button PCB  
+**Arduino Nano breakout PCB designed in KiCad for basic input/output interfacing.**  
+`KiCad` · `Arduino Nano` · `PCB Design` · `Embedded Systems`
 ### 🏠 Smart House
 **Home automation system** designed in Tinkercad — sensors, LEDs, and actuators working in concert.  
 `C++` · `Arduino` · `Tinkercad`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🚦 Traffic Light Controller
@@ -66,6 +66,10 @@ typedef struct {
 
 </td>
 <td width="50%">
+ 
+### 🚦 Arduino Traffic Light PCB  
+**Arduino Nano-compatible PCB designed in KiCad for controlling a traffic light LED system.**  
+`KiCad` · `Arduino Nano` · `PCB Design` · `LED Control`
 
 ### 🔢 4-bit Digital Calculator
 **Combinational logic** calculator built with logic gates and K-map simplification, implemented in Proteus.  
@@ -81,12 +85,11 @@ typedef struct {
 
 **Languages & Programming**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java]((https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white))
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Hardware & Platforms**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 **Design & Simulation Tools**  
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-E47128?style=flat-square&logo=autodesk&logoColor=white)
@@ -102,9 +105,9 @@ typedef struct {
 
 ```
 [ ] Master PCB design and fabricate my own boards
-[ ] Build an end-to-end IoT system with cloud integration
 [ ] Contribute to open-source embedded projects
 [ ] Become a skilled electronics & embedded systems engineer
+[ ] Teach robotics and basic electronics to children and beginners
 ```
 
 ---
@@ -120,11 +123,3 @@ typedef struct {
 </div>
 
 ---
-
-<div align="center">
-
-*"Hardware is poetry written in voltage and logic."*
-
-⚡ Always learning · Always building · Always curious ⚡
-
-</div>
