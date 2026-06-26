@@ -92,10 +92,36 @@ typedef struct {
 </tr>
 </table>
 
---- 
-## > cat goals.md
+---
+
+## `> cat skills.txt`
+
+**Languages & Programming**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Hardware & Platforms**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Design & Simulation Tools**  
+![Tinkercad](https://img.shields.io/badge/Tinkercad-E47128?style=flat-square&logo=autodesk&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C5FA8?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+**Domain Knowledge**  
+`Embedded Systems` · `PCB Design` · `IoT` · `Circuit Analysis` · `Digital Logic` · `Microcontrollers`
+
+---
+
+## `> cat goals.md`
+
+```
 [ ] Master PCB design and fabricate my own boards
+[ ] Build an end-to-end IoT system with cloud integration
 [ ] Contribute to open-source embedded projects
-[ ] Become a skilled electronics & embedded systems engineer
-[ ] Teach robotics and basic electronics to children and beginners
+[ ] Teach robotics, programming, and basic electronics to students and beginners
+```
+
 ---
