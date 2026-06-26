@@ -102,7 +102,7 @@ typedef struct {
 
 ```
 [ ] Master PCB design and fabricate my own boards
-[ ] Build an end-to-end IoT system with cloud integration
+[ ] Teach robotics, programming, and basic electronics to students and beginners
 [ ] Contribute to open-source embedded projects
 [ ] Become a skilled electronics & embedded systems engineer
 ```
