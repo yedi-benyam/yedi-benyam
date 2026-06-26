@@ -108,23 +108,3 @@ typedef struct {
 ```
 
 ---
-
-## `> git log --oneline`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yedi-benyam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&icon_color=7C5CBF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yedi-benyam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CBF&text_color=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-*"Hardware is poetry written in voltage and logic."*
-
-⚡ Always learning · Always building · Always curious ⚡
-
-</div>
