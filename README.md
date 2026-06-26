@@ -32,7 +32,7 @@ typedef struct {
 ```
 
 > 3rd-year ECE student passionate about bridging the gap between hardware and software.  
-> I build real-world systems — from gesture-sensing gloves to automated smart homes.  
+> I build real world systems from gesture sensing gloves to automated smart homes.  
 > Currently advancing in embedded programming, simulation tools, and electronics fundamentals.
 
 ---
